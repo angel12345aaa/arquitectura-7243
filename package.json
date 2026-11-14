@@ -1,0 +1,12 @@
+{
+  "name": "arquitectura-7243",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js con Docker",
+  "license": "ISC",
+  "author": "Ángel Daniel García Mansilla",
+  "type": "commonjs",
+  "main": "arquitectura-7243.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
